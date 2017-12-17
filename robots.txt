@@ -1,0 +1,11 @@
+User-agent: Slurp
+Crawl-delay: 10
+
+User-agent: *
+Disallow: /EN/navbar/
+Disallow: /ES/navbar/
+Disallow: /EN/spacer.png
+Disallow: /ES/spacer.png
+Disallow: /Raw_Log_Files/
+Disallow: /images/spacer
+Disallow: robots.txt
